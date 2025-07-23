@@ -1,15 +1,15 @@
 # READ.ME
 Know about me 
-<h1 align="center">Hi ðŸ‘‹, I'm Ravishankar</h1>
+<h1 align="center">Hi, I'm Ravishankar</h1>
 <h3 align="center">A passionate programmer</h3>
 
-- ðŸ”­ Iâ€™m currently studying **B.Tech CSE with specialization in IoT and Cyber security**
+-I'm currently studying **B.Tech CSE with specialization in IoT and Cyber security**
 
-- ðŸŒ± Iâ€™m currently learning **C ,C++ , HTML, CSS, Java, Python, Javascript etc.**
+- I'm currently learning **C ,C++ , HTML, CSS, Java, Python, Javascript etc.**
 
-- ðŸ’¬ Ask me about **Logic building in c and C++**
+-  Ask me about **Logic building in c and C++**
 
-- ðŸ“« How to reach me **sharmaravishankar100@gmail.com**
+- « How to reach me **sharmaravishankar100@gmail.com**
 
 - âš¡ Fun fact **I love to edit video**
 
